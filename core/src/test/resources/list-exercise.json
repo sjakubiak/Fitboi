@@ -1,0 +1,4 @@
+{"dataPoints":[{"name":"users/123456789/dataTypes/exercise/dataPoints/8896720705097069096","dataSource":{"recordingMethod":"MANUAL","platform":"FITBIT"},
+ "exercise":{"interval":{"startTime":"2026-10-23T13:10:00Z","startUtcOffset":"-18000s","endTime":"2026-10-23T13:25:00Z","endUtcOffset":"-18000s"},
+ "exerciseType":"WALKING","metricsSummary":{"caloriesKcal":16,"distanceMillimiters":1609344,"steps":"2038","averagePaceSecondsPerMeter":0.55923407301360051,"activeZoneMinutes":"0"},
+ "exerciseMetadata":{},"displayName":"Walk","activeDuration":"900s"}}],"nextPageToken":""}
